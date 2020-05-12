@@ -1,1 +1,1 @@
-This game is developed using python code and enables to play for 2 users at same time
+This game is developed using React as well as in python for better user responsiveness
